@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.pasha.arena"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "competitiveProgrammingArena",
+    "packageName": "com.pasha.arena",
+    "packageFolder": "com/pasha/arena",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWQ0OTc2ODdiZThkODI2MTU4MGIxZDdhMWQyMWZiYTE1MmJiMzcwZDRjZDEyYTEyYjdjOGJhMWI1MGI2MzFmNjcyN2U5N2U1YjNlNjVlNDY5ZWUxM2RjN2YyYjE4YWQyODI1NGMyYWNhMjBjMDVkMjJkMDIzNDRiNGY1OWRlMDE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "sketchy",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1583480475423,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
